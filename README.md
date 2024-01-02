@@ -22,7 +22,7 @@ type "pwsh"
 Then do
 
 ```
-git clone https://github.com/dickynasje/KambingCompany.git
+git clone https://github.com/dickynasje/KambingCompany.git --depth=1
 Copy-Item -Force -Recurse KambingCompany\* BepInEx
 ```
 
