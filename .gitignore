@@ -3,3 +3,4 @@ Bundles
 patchers
 LogOutput.log
 core
+plugins/bcp_logDUMP.txt
