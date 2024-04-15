@@ -34,3 +34,8 @@ Copy-Item -Force -Recurse KambingCompany\* BepInEx
 - go into BepInEx folder
 - open terminal
 - run `git pull`
+
+# STATUS
+
+Unmaintained
+Archived due to new v50 coming out
